@@ -1,0 +1,45 @@
+.parent-card{
+     /* background-color: aqua; */
+     display: flex;
+     flex-wrap: wrap;
+}
+
+.card-container{
+    margin-top: 2%;
+    margin-left: 3%;
+    height: 386px;
+    width: 236px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-color: burlywood;
+    border-radius: 5px;
+    flex-wrap: wrap;
+    padding-bottom: 1%;
+
+}
+.card-img-container{
+    height: 258px;
+    width: 219px;
+    color: aliceblue;
+    overflow: hidden;
+}
+.card-img-container img{
+    object-fit: cover;
+    transition: all 0.5s ease;
+}
+.card-img-container:hover img{
+transform: scale(1.1);
+}
+.details{
+    height: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.details button{
+    height: 20px;
+    width: auto;
+    border-radius: 5px;
+    background-color: #febd69;
+}

@@ -1,0 +1,49 @@
+.Signpage{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 128px;
+    
+
+}
+
+h1{
+    background-color: white;
+    height: 7vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5px;
+
+}
+
+.input1 {
+    height: 6%;
+    width: 20%;
+
+   
+    color: black;
+    border-radius: 1px;
+
+}
+.input2{
+    height: 6%;
+    width: 20%;
+
+    
+    color: black;
+    border-radius: 1px;
+
+
+}
+.summit{
+    height: 26px;
+    width: 17%;
+
+    background-color:#131921;
+    color: white;
+    border-radius: 1px;
+
+}

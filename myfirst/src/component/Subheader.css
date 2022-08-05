@@ -1,0 +1,33 @@
+.subheader{
+    background-color: #232f3e;
+    padding: 8px 15px;
+    display: flex;
+    height: 40px;
+   
+}
+.best{
+    color: white;
+  font-weight: 500;
+  width: fit-content;
+  margin-right: 45px;
+}
+.b{
+  display: flex;
+}
+.shirtlink{
+  width:fit-content;
+}
+
+
+
+.mobile{
+    color: white;
+  font-weight: 500;
+  width: fit-content;
+  margin-right: 45px;
+
+}
+
+
+
+
